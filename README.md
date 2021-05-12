@@ -14,8 +14,6 @@
 
 3.  Project Life Cycle Models
 
-  learnt about different types of Project life cycle models
-
 * Waterfall model
 * Spiral model
 * Prototyping model
