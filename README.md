@@ -30,9 +30,9 @@
 2. SCRUM reference link: https://www.atlassian.com/agile/scrum 
 
 3. Learnt about Project management process groups 
-> Initiating processes
-> Planning processes
-> Executing processes
-> Monitoring and controlling processes
-> Closing processes
+> Initiating processes,
+> Planning processes,
+> Executing processes,
+> Monitoring and controlling processes,
+> Closing processes.
 
