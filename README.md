@@ -21,12 +21,18 @@
 
 4. Nature of projects its advantages and disadvantages for eg: Virtual Teams
 
-## Date:05/13/2021
+### Date:05/13/2021
 
-1.Recommended reference link :   https://github.com/vammshiee?tab=projects 
+1. Recommended reference link :   https://github.com/vammshiee?tab=projects 
 
   --The above is an open Project Board
 
-2. SCRUM reference link: https://www.atlassian.com/agile/scrum 
+2. SCRUM reference link: https://www.atlassian.com/agile/scrum 
 
-3. I created a Project/Board under my profile.
+3. Learnt about Project management process groups 
+> Initiating processes
+> Planning processes
+> Executing processes
+> Monitoring and controlling processes
+> Closing processes
+
